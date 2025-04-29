@@ -18,3 +18,4 @@ print(w)
 ![image](https://github.com/user-attachments/assets/4a72c0dc-ccbb-4282-9436-5297c72f4105)
 
 ## Result
+Thus, the python program was executed successfully
